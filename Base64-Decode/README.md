@@ -1,0 +1,1 @@
+Base64 ile defalarca şifrelenmiş olan metinleri manuel yöntemlerle çok fazla uğraşıp çözmeye çalışırken python ile yazılmış bu tool'da sadece kaç kere decode edilmesi gerektiğini girerek kolay bir şekilde decode edebiliyoruz.
